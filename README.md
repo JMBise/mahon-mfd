@@ -6,3 +6,8 @@
 
 * Does not work on non-pro x52
 
+# Controls
+
+* Up and down on the right MFD wheel to scroll
+
+* Click in on the right MFD wheel to switch between route and system pages
