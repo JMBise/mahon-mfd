@@ -1657,6 +1657,28 @@ class FortTradeMFD(X52Pro):
 			#----------------#
 			# display  width #
 		#            --------------
+		self.routes['Partha'] = [
+                        # display  width #
+                        #----------------#
+                        "-- 1 -----------",
+                        "Gateway",
+                        "Dublin (Min Oil)",
+                        "",
+                        "-- 2 -----------",
+                        "ROSS 1047",
+                        "Drew (Beryll.)",
+                        "",
+                        "-- 3 -----------",
+                        "HO HSI",
+                        "Hand (BioreLich)",
+                        "",
+                        "-- 4 -----------",
+                        "Partha",
+                        "Gresley (ALRs)",
+                        "Return to Wicca",
+                        "-- repeat ------"]
+                        # display  width #
+                #            --------------
 		self.routes['Opala'] = [
 			# display  width #
 			#----------------#
@@ -1724,24 +1746,41 @@ class FortTradeMFD(X52Pro):
 			#----------------#
 			"-- 1 -----------",
 			"Gateway",
-			"Wicca (Gold)",
-			"",
+			"Dublin Citadel",
+			"Mineral Oil",
 			"-- 2 -----------",
-			"LHS 2936",
-			"Fraser (Beryll.)",
-			"",
+			"Inktasa",
+			"Oleskiw Station",
+			"Superconductors",
 			"-- 3 -----------",
-			"G 139-50",
-			"Filip. (Autofab)",
-			"",
+			"Ongkampan",
+			"Fawcett Gateway",
+			"Power Generators",
 			"-- 4 -----------",
 			"Pongo",
-			"Antonelli (ALRs)",
-			"",
+			"Antonelli",
+			"ALRs",
+                        "Tantalum",
 			"-- 5 -----------",
-			"Gateway",
-			"Wicca (ALRs)",
-			"Return to Wicca",
+			"Zaragas",
+                        "Jenner Hub",
+			"Performance Enhancers",
+                        "-- 6 -----------",
+                        "Gunnovale",
+                        "Clauss City",
+                        "Tea",
+                        "-- 7 -----------",
+                        "Epsilon Serpentis",
+                        "Kimbrough Orbital",
+                        "Superconductors",
+                        "-- 8 -----------",
+                        "Tau Bootis",
+                        "Pascal Orbital",
+                        "Marine Equipment",
+                        "-- 9 -----------",
+                        "Gateway",
+                        "Dublin Citadel",
+                        "Deliver Forts",
 			"-- repeat ------"]
 			#----------------#
 			# display  width #
